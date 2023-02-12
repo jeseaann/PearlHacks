@@ -66,7 +66,7 @@ class InterestsPage extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.center,
         crossAxisAlignment: CrossAxisAlignment.end,
         children: <Widget>[ // expects a list of widgets
-          Text(( "This app was made in mind of black history month, as Black and indigenous historically don't have easy access to financial information."),
+          Text(( "Topics of Interest"),
            ),
           ElevatedButton(
           onPressed: () {
